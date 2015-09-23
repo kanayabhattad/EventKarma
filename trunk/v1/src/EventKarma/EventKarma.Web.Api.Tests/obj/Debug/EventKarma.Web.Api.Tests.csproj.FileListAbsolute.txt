@@ -1,0 +1,4 @@
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Web.Api.Tests\bin\Debug\EventKarma.Web.Api.Tests.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Web.Api.Tests\bin\Debug\EventKarma.Web.Api.Tests.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Web.Api.Tests\obj\Debug\EventKarma.Web.Api.Tests.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Web.Api.Tests\obj\Debug\EventKarma.Web.Api.Tests.pdb

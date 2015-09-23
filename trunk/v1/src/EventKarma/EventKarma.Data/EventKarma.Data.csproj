@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{5DEB4114-8D3E-4A14-9D30-ACE3FE396F1B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>EventKarma.Data</RootNamespace>
+    <AssemblyName>EventKarma.Data</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="IAuditModel.cs" />
+    <Compile Include="IUserRepository.cs" />
+    <Compile Include="Model\application_properties.cs" />
+    <Compile Include="Model\application_type_master.cs" />
+    <Compile Include="Model\content.cs" />
+    <Compile Include="Model\content_type.cs" />
+    <Compile Include="Model\countries_master.cs" />
+    <Compile Include="Model\function_master.cs" />
+    <Compile Include="Model\language_master.cs" />
+    <Compile Include="Model\locale_master.cs" />
+    <Compile Include="Model\organisation.cs" />
+    <Compile Include="Model\source.cs" />
+    <Compile Include="Model\source_type.cs" />
+    <Compile Include="Model\status_master.cs" />
+    <Compile Include="Model\tag.cs" />
+    <Compile Include="Model\tag_content_mapping.cs" />
+    <Compile Include="Model\template_master.cs" />
+    <Compile Include="Model\timezone_master.cs" />
+    <Compile Include="Model\user.cs" />
+    <Compile Include="Model\usertype_function_mapping.cs" />
+    <Compile Include="Model\usertype_master.cs" />
+    <Compile Include="Model\user_contact_profile.cs" />
+    <Compile Include="Model\user_personal_profile.cs" />
+    <Compile Include="Model\user_preferences.cs" />
+    <Compile Include="Model\user_preferences_mapping.cs" />
+    <Compile Include="Model\user_usertype_mapping.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

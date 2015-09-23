@@ -1,0 +1,4 @@
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common.Test\bin\Debug\EventKarma.Common.Test.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common.Test\bin\Debug\EventKarma.Common.Test.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common.Test\obj\Debug\EventKarma.Common.Test.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common.Test\obj\Debug\EventKarma.Common.Test.pdb

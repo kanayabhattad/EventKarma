@@ -1,0 +1,4 @@
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Smoke.Tests\bin\Debug\EventKarma.Smoke.Tests.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Smoke.Tests\bin\Debug\EventKarma.Smoke.Tests.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Smoke.Tests\obj\Debug\EventKarma.Smoke.Tests.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Smoke.Tests\obj\Debug\EventKarma.Smoke.Tests.pdb

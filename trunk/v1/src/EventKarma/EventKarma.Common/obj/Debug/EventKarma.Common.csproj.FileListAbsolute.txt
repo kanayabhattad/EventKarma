@@ -1,0 +1,15 @@
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\EventKarma.Common.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\EventKarma.Common.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\Iesi.Collections.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\log4net.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\NHibernate.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\Ninject.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\Iesi.Collections.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\log4net.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\NHibernate.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\Ninject.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\obj\Debug\EventKarma.Common.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\obj\Debug\EventKarma.Common.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\Newtonsoft.Json.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\bin\Debug\Newtonsoft.Json.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Common\obj\Debug\EventKarma.Common.csprojResolveAssemblyReference.cache

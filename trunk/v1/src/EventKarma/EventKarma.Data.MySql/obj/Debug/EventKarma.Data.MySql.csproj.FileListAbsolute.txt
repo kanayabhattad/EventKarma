@@ -1,0 +1,16 @@
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\EventKarma.Data.MySql.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\EventKarma.Data.MySql.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\EventKarma.Common.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\EventKarma.Data.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\FluentNHibernate.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\Iesi.Collections.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\NHibernate.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\EventKarma.Common.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\EventKarma.Data.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\FluentNHibernate.pdb
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\FluentNHibernate.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\Iesi.Collections.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\bin\Debug\NHibernate.xml
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\obj\Debug\EventKarma.Data.MySql.csprojResolveAssemblyReference.cache
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\obj\Debug\EventKarma.Data.MySql.dll
+K:\EventKarma\trunk\v1\src\EventKarma\EventKarma.Data.MySql\obj\Debug\EventKarma.Data.MySql.pdb

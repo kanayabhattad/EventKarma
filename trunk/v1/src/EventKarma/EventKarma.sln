@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Common", "EventKarma.Common\EventKarma.Common.csproj", "{CD2FD986-EF2B-443B-A458-D81BD178A668}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Data", "EventKarma.Data\EventKarma.Data.csproj", "{5DEB4114-8D3E-4A14-9D30-ACE3FE396F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Web.Api.Model", "EventKarma.Web.Api.Model\EventKarma.Web.Api.Model.csproj", "{C0E74D36-E674-4D6C-B4CA-8E279C4BC9DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Web.Api.Test", "EventKarma.Web.Api.Test\EventKarma.Web.Api.Test.csproj", "{45704DF6-937B-4E3E-B516-EF7B56D2AB46}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Common.Test", "EventKarma.Common.Test\EventKarma.Common.Test.csproj", "{E64F9DA1-798D-4086-BFDF-E686794964E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Data.MySql", "EventKarma.Data.MySql\EventKarma.Data.MySql.csproj", "{972554CE-A56B-4BBA-BD75-E3F8EE96F16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Web.Common", "EventKarma.Web.Common\EventKarma.Web.Common.csproj", "{56210E41-E32A-412A-A21A-92A50703F374}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{0DCB56F2-D4E8-4991-BC6E-2913EE1ADCC2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Smoke.Tests", "EventKarma.Smoke.Tests\EventKarma.Smoke.Tests.csproj", "{A6D270E9-306F-443E-91DE-95B2BF62987C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Web.Api.Tests", "EventKarma.Web.Api.Tests\EventKarma.Web.Api.Tests.csproj", "{4385D7F8-FC96-4247-BF78-E13764B944AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Web.Common.Tests", "EventKarma.Web.Common.Tests\EventKarma.Web.Common.Tests.csproj", "{8FDD110B-DA18-4AB8-8FCC-70EF1D3137BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventKarma.Web.Api", "EventKarma.Web.Api\EventKarma.Web.Api.csproj", "{7F8F3400-0287-40B4-A6A0-750C5C5AC438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD2FD986-EF2B-443B-A458-D81BD178A668}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD2FD986-EF2B-443B-A458-D81BD178A668}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD2FD986-EF2B-443B-A458-D81BD178A668}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD2FD986-EF2B-443B-A458-D81BD178A668}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DEB4114-8D3E-4A14-9D30-ACE3FE396F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DEB4114-8D3E-4A14-9D30-ACE3FE396F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DEB4114-8D3E-4A14-9D30-ACE3FE396F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DEB4114-8D3E-4A14-9D30-ACE3FE396F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E74D36-E674-4D6C-B4CA-8E279C4BC9DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E74D36-E674-4D6C-B4CA-8E279C4BC9DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E74D36-E674-4D6C-B4CA-8E279C4BC9DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E74D36-E674-4D6C-B4CA-8E279C4BC9DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45704DF6-937B-4E3E-B516-EF7B56D2AB46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45704DF6-937B-4E3E-B516-EF7B56D2AB46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45704DF6-937B-4E3E-B516-EF7B56D2AB46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45704DF6-937B-4E3E-B516-EF7B56D2AB46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E64F9DA1-798D-4086-BFDF-E686794964E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64F9DA1-798D-4086-BFDF-E686794964E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64F9DA1-798D-4086-BFDF-E686794964E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64F9DA1-798D-4086-BFDF-E686794964E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972554CE-A56B-4BBA-BD75-E3F8EE96F16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972554CE-A56B-4BBA-BD75-E3F8EE96F16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972554CE-A56B-4BBA-BD75-E3F8EE96F16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972554CE-A56B-4BBA-BD75-E3F8EE96F16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56210E41-E32A-412A-A21A-92A50703F374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56210E41-E32A-412A-A21A-92A50703F374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56210E41-E32A-412A-A21A-92A50703F374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56210E41-E32A-412A-A21A-92A50703F374}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6D270E9-306F-443E-91DE-95B2BF62987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D270E9-306F-443E-91DE-95B2BF62987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D270E9-306F-443E-91DE-95B2BF62987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D270E9-306F-443E-91DE-95B2BF62987C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4385D7F8-FC96-4247-BF78-E13764B944AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4385D7F8-FC96-4247-BF78-E13764B944AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4385D7F8-FC96-4247-BF78-E13764B944AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4385D7F8-FC96-4247-BF78-E13764B944AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDD110B-DA18-4AB8-8FCC-70EF1D3137BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDD110B-DA18-4AB8-8FCC-70EF1D3137BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDD110B-DA18-4AB8-8FCC-70EF1D3137BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDD110B-DA18-4AB8-8FCC-70EF1D3137BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8F3400-0287-40B4-A6A0-750C5C5AC438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8F3400-0287-40B4-A6A0-750C5C5AC438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8F3400-0287-40B4-A6A0-750C5C5AC438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8F3400-0287-40B4-A6A0-750C5C5AC438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{E64F9DA1-798D-4086-BFDF-E686794964E6} = {0DCB56F2-D4E8-4991-BC6E-2913EE1ADCC2}
+		{A6D270E9-306F-443E-91DE-95B2BF62987C} = {0DCB56F2-D4E8-4991-BC6E-2913EE1ADCC2}
+		{4385D7F8-FC96-4247-BF78-E13764B944AA} = {0DCB56F2-D4E8-4991-BC6E-2913EE1ADCC2}
+		{8FDD110B-DA18-4AB8-8FCC-70EF1D3137BA} = {0DCB56F2-D4E8-4991-BC6E-2913EE1ADCC2}
+	EndGlobalSection
+EndGlobal
